@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlingPlangPlong_Code", "PlingPlangPlong_Code\PlingPlangPlong_Code.csproj", "{1050A025-0B93-4BD4-BC30-DEA6A8E36CAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlingPlangPlong_Tests", "PlingPlangPlong_Tests\PlingPlangPlong_Tests.csproj", "{EAC2A054-1490-4FCB-9584-DCA948CF3F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1050A025-0B93-4BD4-BC30-DEA6A8E36CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1050A025-0B93-4BD4-BC30-DEA6A8E36CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1050A025-0B93-4BD4-BC30-DEA6A8E36CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1050A025-0B93-4BD4-BC30-DEA6A8E36CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC2A054-1490-4FCB-9584-DCA948CF3F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC2A054-1490-4FCB-9584-DCA948CF3F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC2A054-1490-4FCB-9584-DCA948CF3F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC2A054-1490-4FCB-9584-DCA948CF3F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B856FAB-6F9C-43DD-AE65-118918BC5245}
+	EndGlobalSection
+EndGlobal
