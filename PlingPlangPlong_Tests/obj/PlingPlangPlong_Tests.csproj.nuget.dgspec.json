@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj": {}
+    "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj": {
+    "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj",
+        "projectUniqueName": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj",
         "projectName": "PlingPlangPlong_Code",
-        "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj",
+        "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj",
         "packagesPath": "C:\\Users\\otomk\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\obj\\",
+        "outputPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otomk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj": {
+    "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
+        "projectUniqueName": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
         "projectName": "PlingPlangPlong_Tests",
-        "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
+        "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
         "packagesPath": "C:\\Users\\otomk\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\obj\\",
+        "outputPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\otomk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj": {
-                "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj"
+              "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj": {
+                "projectPath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Code\\PlingPlangPlong_Code.csproj"
               }
             }
           }

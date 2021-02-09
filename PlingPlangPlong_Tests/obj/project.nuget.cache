@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VWSpcakxxxFSfgwN4qEqV4RBkB+8eV0WUpyLgsvYu5OtgwukFZ0eAnyIC/45H8xBZH+FS07d3HwrTAzwIrLqQ==",
+  "dgSpecHash": "RiD++I6nPtp5K8lVG1y2hiR2hQG/WniefR/kcrJ/qSYUW7hvk4Vw2VEJTQNC9dnineT+TfGFI+OA2HCBlxTFHg==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\2021\\PlingPlangPlongAlternateExample\\PlingPlangPlong_Alternative_Example\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
+  "projectFilePath": "C:\\GitHub\\2021\\PlingPlangPlongAlternativeExample\\PlingPlangPlong_Tests\\PlingPlangPlong_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\otomk\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\otomk\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
